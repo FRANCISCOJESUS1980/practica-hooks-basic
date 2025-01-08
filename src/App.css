@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  text-align: center;
+}
+input {
+  border-radius: 6px;
+}

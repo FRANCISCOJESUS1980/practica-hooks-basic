@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import CharacterCard from '../src/components/CharacterCard/CharacterCard'
+import './App.css'
 function App() {
   const [characters, setCharacters] = useState([])
   const [filter, setFilter] = useState('')
